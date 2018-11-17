@@ -27,7 +27,8 @@
             android:enabled="true"
             android:exported="true" />
 
-        <activity android:name=".activity_user_details"></activity>
+        <activity android:name=".activity_user_details" />
+        <activity android:name=".modeselector"></activity>
     </application>
 
 </manifest>
