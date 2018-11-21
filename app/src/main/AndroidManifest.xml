@@ -28,7 +28,8 @@
             android:exported="true" />
 
         <activity android:name=".activity_user_details" />
-        <activity android:name=".modeselector"></activity>
+        <activity android:name=".modeselector" />
+        <activity android:name=".activity_launcher"></activity>
     </application>
 
 </manifest>
