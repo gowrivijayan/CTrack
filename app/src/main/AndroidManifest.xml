@@ -31,7 +31,8 @@
         <activity android:name=".modeselector" />
         <activity android:name=".promptunicode1" />
         <activity android:name=".activity_user_details1" />
-        <activity android:name=".activity_home"></activity>
+        <activity android:name=".activity_home" />
+        <activity android:name=".promptunicode2"></activity>
     </application>
 
 </manifest>
