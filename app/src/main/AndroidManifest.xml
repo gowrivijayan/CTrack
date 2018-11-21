@@ -20,11 +20,15 @@
             </intent-filter>
         </activity>
         <activity android:name=".Register" />
-        <activity android:name=".Home"></activity>
+        <activity android:name=".Home" />
+
         <service
             android:name=".TrackerService"
             android:enabled="true"
             android:exported="true" />
+
+        <activity android:name=".promptunicode" />
+        <activity android:name=".activity_user_details"></activity>
     </application>
 
 </manifest>
